@@ -1,1 +1,1 @@
-# web-page-1
+This tabular data web page create by implementing the concepts of HTML and CSS.
